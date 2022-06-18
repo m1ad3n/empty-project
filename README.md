@@ -1,13 +1,12 @@
-## Hello, World Project In C with Makefile build script
+### Hello, World Project In C with Makefile build script
 ##
 ### How to build the project:
 `make`
 ### This will compile all .c files into .o files
-### Script will also generate dependencie files (.d)
+### Script will also generate dependencies files (.d)
 ##
-### How to run the program:
+### Run program simply by typing (build_dir)/(project) - default:
 `build/demo`
-### Note: demo is a project name
 ##
 ### To remove compiled files:
 `make clean`
