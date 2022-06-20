@@ -1,7 +1,7 @@
 BUILD_DIR	=	./build
 SOURCE_DIR	=	./src
 
-CC			=	gcc
+CC		=	gcc
 CFLAGS		=	-Wall -Wextra -w -g
 LDFLAGS		=	
 CXXFLAGS	=	
